@@ -1,0 +1,16 @@
+
+.profil{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(45, 54, 65);
+}
+h2,h1 {
+  padding: 3%;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.email{
+color: rgb(0, 162, 255);
+}
